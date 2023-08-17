@@ -76,7 +76,7 @@ In earlier versions of Windows, ssh-keygen was not a native utility, so third-pa
 
 5.  Follow the instructions and move your mouse around the empty grey area to generate random information. PuTTY is using that information to generate a random, secure SSH key.
 
-    ![Move mouse](./images/move-mouse.png " ")
+    ![Move mouse](./images/random.png " ")
 
 6.  In the below screen, PuTTY has taken your mouse information and created a key. We need to do several things here that are a little different than other key generation methods. Although we can't actually use the file for an OCI Instance, we'll still want to save the key for future reference. Click the **Save public key** button.
 
